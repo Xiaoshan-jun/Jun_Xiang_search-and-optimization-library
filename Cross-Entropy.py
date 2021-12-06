@@ -1,7 +1,7 @@
 # -*- coding: utf-8 -*-
 """
 Created on Sun Nov 21 00:56:13 2021
-
+Cross-Entropy Methods
 @author: jun xiang
 """
 from sympy import diff, solve
@@ -54,7 +54,7 @@ initial = [2, 2]
 
 xrecord, vrecord = crossEntropy(func, initial, k, topk, iteration)
 plt.plot(vrecord)
-plt.title('value vs iteration')
+plt.title('value vs iteration(crossEntropy)')
 plt.xlabel('iteration')
 plt.ylabel('func(x)')
 plt.show()

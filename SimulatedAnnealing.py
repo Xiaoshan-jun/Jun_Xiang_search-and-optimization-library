@@ -42,7 +42,7 @@ T = 10
 iteration = 100
 xrecord, vrecord = SimulatedAnnealing(func, initial,iteration, T)
 plt.plot(vrecord)
-plt.title('value vs iteration')
+plt.title('value vs iteration Simulated Annealing')
 plt.xlabel('iteration')
 plt.ylabel('func(x)')
 plt.show()
