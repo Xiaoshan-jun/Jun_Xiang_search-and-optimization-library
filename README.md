@@ -2,12 +2,12 @@
  
  in this library following function can be founded. All python files optimize a sample function. you can replace the function with any desired function.
  1. Gradient Descent, Newton Descen
-  <code>python Descent.py<code></code>
+  <code>python Descent.py</code>
  2. Simulated Annealing
-  python SimulatedAnnealing
+  <code>python SimulatedAnnealing</code>
  3. Cross-Entropy Methods
-  python Cross-Entropy.py
+  <code>python Cross-Entropy.py</code>
  5. Search Gradient
-  python SearchGradient.py
+  <code>python SearchGradient.py</code>
  7. A* search
-  python AstarSearch.py
+  <code>python AstarSearch.py</code>
